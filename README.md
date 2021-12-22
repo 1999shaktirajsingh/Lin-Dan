@@ -4,4 +4,4 @@
 This project is made using HTML and CSS.</p>
 </br>
 <p align="center">Webpage link</p>
-<a align="center" href="https://1999shaktirajsingh.github.io/LinDan/">Click here</a>
+<div align="center"><a href="https://1999shaktirajsingh.github.io/LinDan/">Click here</a></div>

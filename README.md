@@ -3,5 +3,5 @@
 </br>
 This project is made using HTML and CSS.</p>
 </br>
-<p>Webpage link - </p>
-<a href="https://1999shaktirajsingh.github.io/LinDan/">Click here</a>
+<p align="center">Webpage link</p>
+<a align="center" href="https://1999shaktirajsingh.github.io/LinDan/">Click here</a>
